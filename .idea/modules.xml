@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AND-2.iml" filepath="$PROJECT_DIR$/AND-2.iml" />
+      <module fileurl="file://D:\AndroidStudioProjects\AND-2 master\AND-2.iml" filepath="D:\AndroidStudioProjects\AND-2 master\AND-2.iml" />
+      <module fileurl="file://D:\AndroidStudioProjects\AND-2\AND-2 master.iml" filepath="D:\AndroidStudioProjects\AND-2\AND-2 master.iml" />
+      <module fileurl="file://E:\Block8\Android2\Android2Application_New\AND-2\AND-2 master.iml" filepath="E:\Block8\Android2\Android2Application_New\AND-2\AND-2 master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

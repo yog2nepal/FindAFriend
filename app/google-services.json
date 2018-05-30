@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "733627803637",
+    "firebase_url": "https://andr-2.firebaseio.com",
+    "project_id": "andr-2",
+    "storage_bucket": "andr-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733627803637:android:40f27cdc39ba163f",
+        "android_client_info": {
+          "package_name": "com.example.biespiel_pc.and_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733627803637-f0cj8d642cesr6ej2qugf92hrbaj530l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZwynLtiWNWRCnons79AEQvLNKtz64zgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
